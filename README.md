@@ -10,6 +10,8 @@ This is an XML interface.
 This is the questions interface, I added 3 pictures of questions out of 7 questions.
 ![1](https://github.com/user-attachments/assets/cfb10ba8-d5e2-4aaa-bbc9-10c79dde5ab5) ![3](https://github.com/user-attachments/assets/2949ff31-4062-44f9-b443-806e9b4f5ae9) ![4](https://github.com/user-attachments/assets/72386dab-3ade-4a8a-ab17-4673c3846fd6)
 
+
 This is an alert Results interface.
+
 ![sonuc](https://github.com/user-attachments/assets/e6572119-e430-4681-9f48-f84089f3e4c3)
 
