@@ -1,5 +1,7 @@
 تم عمل هذا المشروع لمادة هندسة البرمجيات, برنامج اختبار مكون من 10 سؤال, الاسئلة التابعة لجمهورية تركيا.
+
 Bu proje yazılım mühendisliği konusuna yönelik olarak Türkiye Cumhuriyeti'ne bağlı 10 sorudan oluşan bir test programı olarak yapılmıştır.
+
 This project was made for Software Engineering, a 10 question test program, questions related to the Republic of Türkiye.
 
 This is an XML interface.
